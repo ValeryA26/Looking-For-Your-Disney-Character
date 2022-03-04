@@ -23,5 +23,7 @@ De errar alguna de las preguntas (llegar a un estado que no lleva a ningún esta
 
 [diagrama](https://drive.google.com/file/d/1tZW9MQaOzMVmR-bFQgb-6JQNvJkJROav/view?usp=sharing)
 
+[descarga JFLAP](https://softfamous.com/postdownload-file/jflap/8447/3913/)
+
 [listado de preguntas](https://drive.google.com/file/d/1-P1pGyGXE8lz2KlGURBCBJT3Nf5l8T5F/view?usp=sharing)
 
