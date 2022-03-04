@@ -20,3 +20,5 @@ El proyecto se inspira en el juego de la búsqueda del tesoro, en el que con ace
 ## Definición formal
 Como trabajo previo a la elaboración de este juego, se realizó un autómata finito determinista en JFLAP, el cual comienza desde una primera pregunta y con cada respuesta encuentra un nuevo camino que se abre hasta llegar a un estado final, que sería la meta del juego. 
 De errar alguna de las preguntas (llegar a un estado que no lleva a ningún estado final) se devolverá al estado incial, de tal manera que no puede haber errores al contestar si se quiere llegar hasta el final. 
+
+https://docs.google.com/document/d/1iCE0JXHYIw46bhOt_snN9yngB7dI5vOm/edit?usp=sharing&ouid=115592118122648990501&rtpof=true&sd=true
