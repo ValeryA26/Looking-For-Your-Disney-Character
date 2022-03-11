@@ -117,7 +117,7 @@ sus transiciones:
 
 
 
-[diagrama](https://drive.google.com/file/d/1L84QrK-ZzK6i7SItDVY4-i_CtHq1usYo/view?usp=sharing)
+[diagrama](https://drive.google.com/file/d/103hLQLLh4glETt4X3D3nxZ5OaGMw8qKJ/view?usp=sharing)
 
 [listado de preguntas](https://drive.google.com/file/d/1cjxeoveqF0qUlD7x8UZh7IiKzrFdxMNw/view?usp=sharing)
 
