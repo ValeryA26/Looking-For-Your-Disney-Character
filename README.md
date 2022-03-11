@@ -22,9 +22,13 @@ Como trabajo previo a la elaboración de este juego, se realizó un autómata fi
 De errar alguna de las preguntas (llegar a un estado que no lleva a ningún estado final) se devolverá al estado incial, de tal manera que no puede haber errores al contestar si se quiere llegar hasta el final. 
 
 Sea A el automata definido: A = ( Q , ∑ , δ , q0 , F ) 
+
 su conjunto de estados: Q = {q0 , q1 , q2 , q3 , q4 , q5 , q6 , q7 , q8 , q9 , q10 , q11 , q12 , q13 , q14 , q15 , q16 , q17 , q18 , q19 , q20 , q21 , q22 , q23 , q24 , q25 , q26 , q27 , q28 , q29 , q30 , q31 , q32 , q33 , q34 , q35 , q36 , q37 , q38 , q39 , q40 , q41 , q42}
+
 su alfabeto: ∑ = {g , a , l , x , 2 , y , z , h , p , f , t , s , c , 1 , 0 , 3 , 4 , m , b , d , e , v ,  i ,  j ,  k , n , o , q}
+
 sus estados finales: F = {q25 , q26 , q41 , q42}
+
 sus transiciones:
 
 δ( q0 , g ) = q1
