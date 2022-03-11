@@ -4,7 +4,7 @@
 **Profesor: Luis Carlos Guayacán**
 
 **Estudiantes:**
-- Rodriguez Romero Julián Andrey - 2191956
+- Rodríguez Romero Julián Andrey - 2191956
 - Melchor Suárez Valery Andrea - 2191916
 - Adel Mauricio - 2191932
 
