@@ -122,4 +122,24 @@ sus transiciones:
 [listado de preguntas](https://drive.google.com/file/d/1cjxeoveqF0qUlD7x8UZh7IiKzrFdxMNw/view?usp=sharing)
 
 **Código:**
+def punto1():
+    from automatalib.fa.dfa import DFA
+    d = DFA(
+        states = {'q0', 'q1', 'q2', 'q3', 'q4', 'q5'},
+        input_symbols = {'a', 'b', 'c', 'd' },
+        transitions = { 
+            'q0': {'c': 'q0', 'd': 'q0', 'a': 'q1'},
+            'q1': {'b': 'q2'},
+            'q2': {'b': 'q2', 'a': 'q3'},
+            'q3': {'d': 'q4'},
+            'q4': {'a': 'q5'},
+            'q5': {'d': 'q4'}
+        },
+        initial_state = 'q0',
+        final_states = {'q4'}
+    )
+    return d
+
+import urllib, urllib.parse, inspect 
+src1 = urllib.parse.quote_plus(inspect.getsource(punto1))
 
