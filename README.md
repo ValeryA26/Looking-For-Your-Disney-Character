@@ -123,6 +123,7 @@ sus transiciones:
 
 **Código:**
 
+```
 def punto1():
     from automatalib.fa.dfa import DFA
     d = DFA(
@@ -143,5 +144,5 @@ def punto1():
 
 import urllib, urllib.parse, inspect 
 src1 = urllib.parse.quote_plus(inspect.getsource(punto1))
-
+```
 
