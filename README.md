@@ -81,7 +81,7 @@ sus transiciones:
 
 [listado de preguntas](https://drive.google.com/file/d/1cjxeoveqF0qUlD7x8UZh7IiKzrFdxMNw/view?usp=sharing)
 
-**Código:**
+### Código:
 
 ```
 def projecto:
