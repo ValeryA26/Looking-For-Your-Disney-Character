@@ -27,8 +27,6 @@ Su conjunto de estados: Q = {q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q
 
 Su alfabeto: ∑ = {a, b, c, d}
 
-Sus estados finales: F = {q30, q39, q42, q58, q60, q66, q70, q100, q101, q102, q103, q104, q105, q106, q107, q108, q109, q110, q111, q112, q113, q114, q115, q116, q117, q118, q119, q120, q121, q122, q123, q124, q125, q126, q127, q128, q129, q130, q131, q132, q133, q134, q135, q136, q137, q138, q139, q140, q141, q142, q143, q144, q145, q146, q147, q148, q149, q150, q151, q152, q153, q154, q155, q156, q157, q158, q159, q160, q161, q162, q163, q164, q165, q166}
-
 Sus transiciones:
 
 - δ( q0 , a) = q3
@@ -267,6 +265,9 @@ Sus transiciones:
 - δ( q101 , a) = q95
 - δ( q101 , b) = q134
 
+Su estado inicial: 'q0' 
+
+Sus estados finales: F = {q30, q39, q42, q58, q60, q66, q70, q100, q101, q102, q103, q104, q105, q106, q107, q108, q109, q110, q111, q112, q113, q114, q115, q116, q117, q118, q119, q120, q121, q122, q123, q124, q125, q126, q127, q128, q129, q130, q131, q132, q133, q134, q135, q136, q137, q138, q139, q140, q141, q142, q143, q144, q145, q146, q147, q148, q149, q150, q151, q152, q153, q154, q155, q156, q157, q158, q159, q160, q161, q162, q163, q164, q165, q166}
 
 ## diagrama
 ![PROYECTO AUTOMATAS](https://user-images.githubusercontent.com/73613484/158001518-ab38f589-a3b3-484d-8432-129ba3916043.png)
