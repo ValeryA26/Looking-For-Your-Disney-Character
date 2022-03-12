@@ -76,7 +76,7 @@ sus transiciones:
 
 
 ## diagrama
-![diagrama]()
+![PROYECTO AUTOMATAS](https://user-images.githubusercontent.com/73613484/158001097-3a6bc3f0-fa98-4939-aa90-9db878c73977.png)
 
 
 [listado de preguntas](https://drive.google.com/file/d/1cjxeoveqF0qUlD7x8UZh7IiKzrFdxMNw/view?usp=sharing)
@@ -242,4 +242,5 @@ def projecto:
 import urllib, urllib.parse, inspect 
 src1 = urllib.parse.quote_plus(inspect.getsource(proyecto))
 ```
+
 
