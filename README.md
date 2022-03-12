@@ -75,7 +75,7 @@ sus transiciones:
 - δ( q40 , n ) = q42
 
 
-##diagrama
+## diagrama
 ![diagrama]()
 
 
