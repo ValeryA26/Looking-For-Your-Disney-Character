@@ -6,7 +6,7 @@
 **Estudiantes:**
 - Rodríguez Romero Julián Andrey - 2191956
 - Melchor Suárez Valery Andrea - 2191916
-- Adel Mauricio - 2191932
+- Alvarez Amado Adel Mauricio - 2191932
 
 **Escuela de Ingeniería de Sistemas e Informática**
 
