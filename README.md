@@ -273,7 +273,7 @@ Sus estados finales: F = {q30, q39, q42, q58, q60, q66, q70, q100, q101, q102, q
 ![PROYECTO AUTOMATAS](https://user-images.githubusercontent.com/73613484/158001518-ab38f589-a3b3-484d-8432-129ba3916043.png)
 
 
-[listado de preguntas](https://drive.google.com/file/d/1cjxeoveqF0qUlD7x8UZh7IiKzrFdxMNw/view?usp=sharing)
+[listado de preguntas](https://drive.google.com/file/d/1-P1pGyGXE8lz2KlGURBCBJT3Nf5l8T5F/view?usp=sharing)
 
 ### Código:
 
