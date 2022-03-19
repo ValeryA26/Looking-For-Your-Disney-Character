@@ -17,6 +17,9 @@ Para la realización de este proyecto se hizo uso de los conceptos de: Autómata
 
 El proyecto se inspira en el juego de la búsqueda del tesoro, en el que con acertijos y preguntas el jugador sigue el camino que le lleva hasta un personaje u objetivo, que es el final del juego y el "tesoro".
 
+### Video
+[![Alt text](https://img.youtube.com/vi/t7xYNJX7hpg/0.jpg)](https://www.youtube.com/watch?v=t7xYNJX7hpg)
+
 ## Definición formal
 Como trabajo previo a la elaboración de este juego, se realizó un autómata finito determinista en JFLAP, el cual comienza desde una primera pregunta y con cada respuesta encuentra un nuevo camino que se abre hasta llegar a un estado final, que sería la meta del juego. 
 De errar alguna de las preguntas (llegar a un estado que no lleva a ningún estado final) se devolverá al estado incial, de tal manera que no puede haber errores al contestar si se quiere llegar hasta el final. Por este motivo, se propone el siguiente lenguaje formal:
